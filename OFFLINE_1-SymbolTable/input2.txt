@@ -1,0 +1,81 @@
+3
+E
+E
+E
+S
+I a BOOL
+E
+L a
+S
+E
+I a INT
+I b INT
+I c INT
+I a BOOL
+L a
+S
+I a FLOAT
+I d INT
+L a
+L b
+D a
+L a
+S
+I e INT
+I f INT
+P C
+P A
+E
+D d
+I g FUNCTION INT 
+I h FUNCTION 
+I L STRUCT INT L FLOAT
+L g
+I s1 STRUCT INT x FLOAT y BOOL z
+L s1
+E
+L a
+D b
+L b
+P A
+I h INT
+I h FUNCTION VOID
+I op1 RELOP <=
+I op2 RELOP ==
+L op1
+I u1 UNION BOOL flag CHAR ch
+L u1
+I U3 UNION BOOL h NULL 
+S
+I i INT
+S
+I j INT
+L j
+L i
+L a
+E
+L j
+L i
+E
+L i
+D c
+L c
+I c INT
+L c
+I e INT
+L e
+S
+I k INT
+L k
+D k
+L k
+E
+I m INT
+D m
+I m INT
+L m
+I op3 RELOP >=
+L op3
+P A
+E
+Q

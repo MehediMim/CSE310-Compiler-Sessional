@@ -1,0 +1,8 @@
+_________________________________
+Report for SDBM
+_________________________________
+Total Collision: 16
+Total ScopeTable: 1
+Bucket Size: 3
+Average collision Ratio: 5.33333
+_________________________________

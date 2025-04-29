@@ -1,0 +1,134 @@
+	ScopeTable# 1 created
+Cmd 1: E
+Cmd 2: E
+Cmd 3: E
+Cmd 4: S
+Cmd 5: I a BOOL
+	Inserted in ScopeTable# 1 at position 2, 1
+Cmd 6: E
+Cmd 7: L a
+	'a' not found in any of the ScopeTables
+Cmd 8: S
+Cmd 9: E
+Cmd 10: I a INT
+	'a' already exists in the current ScopeTable
+Cmd 11: I b INT
+	Inserted in ScopeTable# 1 at position 3, 1
+Cmd 12: I c INT
+	Inserted in ScopeTable# 1 at position 1, 1
+Cmd 13: I a BOOL
+	'a' already exists in the current ScopeTable
+Cmd 14: L a
+	'a' not found in any of the ScopeTables
+Cmd 15: S
+Cmd 16: I a FLOAT
+	'a' already exists in the current ScopeTable
+Cmd 17: I d INT
+	Inserted in ScopeTable# 1 at position 2, 2
+Cmd 18: L a
+	'a' not found in any of the ScopeTables
+Cmd 19: L b
+	'b' not found in any of the ScopeTables
+Cmd 20: D a
+	Not found in the current ScopeTable
+Cmd 21: L a
+	'a' not found in any of the ScopeTables
+Cmd 22: S
+Cmd 23: I e INT
+	Inserted in ScopeTable# 1 at position 3, 2
+Cmd 24: I f INT
+	Inserted in ScopeTable# 1 at position 1, 2
+Cmd 25: P C
+Cmd 26: P A
+Cmd 27: E
+Cmd 28: D d
+Cmd 29: I g FUNCTION INT 
+	Inserted in ScopeTable# 1 at position 2, 3
+Cmd 30: I h FUNCTION 
+	Inserted in ScopeTable# 1 at position 3, 3
+Cmd 31: I L STRUCT INT L FLOAT
+	Inserted in ScopeTable# 1 at position 2, 4
+Cmd 32: L g
+	'g' not found in any of the ScopeTables
+Cmd 33: I s1 STRUCT INT x FLOAT y BOOL z
+	Inserted in ScopeTable# 1 at position 3, 4
+Cmd 34: L s1
+	's1' not found in any of the ScopeTables
+Cmd 35: E
+Cmd 36: L a
+	'a' not found in any of the ScopeTables
+Cmd 37: D b
+Cmd 38: L b
+	'b' not found in any of the ScopeTables
+Cmd 39: P A
+Cmd 40: I h INT
+	'h' already exists in the current ScopeTable
+Cmd 41: I h FUNCTION VOID
+	'h' already exists in the current ScopeTable
+Cmd 42: I op1 RELOP <=
+	Inserted in ScopeTable# 1 at position 3, 5
+Cmd 43: I op2 RELOP ==
+	Inserted in ScopeTable# 1 at position 1, 3
+Cmd 44: L op1
+	'op1' not found in any of the ScopeTables
+Cmd 45: I u1 UNION BOOL flag CHAR ch
+	Inserted in ScopeTable# 1 at position 2, 5
+Cmd 46: L u1
+	'u1' not found in any of the ScopeTables
+Cmd 47: I U3 UNION BOOL h NULL 
+	Inserted in ScopeTable# 1 at position 2, 6
+Cmd 48: S
+Cmd 49: I i INT
+	Inserted in ScopeTable# 1 at position 1, 4
+Cmd 50: S
+Cmd 51: I j INT
+	Inserted in ScopeTable# 1 at position 2, 7
+Cmd 52: L j
+	'j' not found in any of the ScopeTables
+Cmd 53: L i
+	'i' not found in any of the ScopeTables
+Cmd 54: L a
+	'a' not found in any of the ScopeTables
+Cmd 55: E
+Cmd 56: L j
+	'j' not found in any of the ScopeTables
+Cmd 57: L i
+	'i' not found in any of the ScopeTables
+Cmd 58: E
+Cmd 59: L i
+	'i' not found in any of the ScopeTables
+Cmd 60: D c
+Cmd 61: L c
+	'c' not found in any of the ScopeTables
+Cmd 62: I c INT
+	'c' already exists in the current ScopeTable
+Cmd 63: L c
+	'c' not found in any of the ScopeTables
+Cmd 64: I e INT
+	'e' already exists in the current ScopeTable
+Cmd 65: L e
+	'e' not found in any of the ScopeTables
+Cmd 66: S
+Cmd 67: I k INT
+	Inserted in ScopeTable# 1 at position 3, 6
+Cmd 68: L k
+	'k' not found in any of the ScopeTables
+Cmd 69: D k
+Cmd 70: L k
+	'k' not found in any of the ScopeTables
+Cmd 71: E
+Cmd 72: I m INT
+	Inserted in ScopeTable# 1 at position 2, 8
+Cmd 73: D m
+Cmd 74: I m INT
+	'm' already exists in the current ScopeTable
+Cmd 75: L m
+	'm' not found in any of the ScopeTables
+Cmd 76: I op3 RELOP >=
+	Inserted in ScopeTable# 1 at position 2, 9
+Cmd 77: L op3
+	'op3' not found in any of the ScopeTables
+Cmd 78: P A
+Cmd 79: E
+Cmd 80: Q
+	ScopeTable# 1 removed

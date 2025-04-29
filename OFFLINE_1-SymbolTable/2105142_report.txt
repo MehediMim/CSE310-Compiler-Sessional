@@ -1,0 +1,24 @@
+_________________________________
+Report for SDBM
+_________________________________
+Total Collision: 4
+Total ScopeTable: 8
+Bucket Size: 7
+Average collision Ratio: 0.0714286
+_________________________________
+_________________________________
+Report for DJB2
+_________________________________
+Total Collision: 1
+Total ScopeTable: 8
+Bucket Size: 7
+Average collision Ratio: 0.0178571
+_________________________________
+_________________________________
+Report for MURMUR
+_________________________________
+Total Collision: 0
+Total ScopeTable: 8
+Bucket Size: 7
+Average collision Ratio: 0
+_________________________________
